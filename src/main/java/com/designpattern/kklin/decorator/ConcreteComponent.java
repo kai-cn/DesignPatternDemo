@@ -1,4 +1,4 @@
-package com.designpattern.kklin.Decorator;
+package com.designpattern.kklin.decorator;
 
 class ConcreteComponent extends Component {
   

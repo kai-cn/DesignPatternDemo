@@ -1,4 +1,4 @@
-package com.designpattern.kklin.Strategy;
+package com.designpattern.kklin.strategy;
 
 public abstract class Strategy {
 

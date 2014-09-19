@@ -1,6 +1,6 @@
-package com.designpattern.kklin.SimpleFactory;
+package com.designpattern.kklin.simplefactory;
 
-public class OperationAdd extends Operation {
+public class OperationMul extends Operation {
 	@Override
 	public double getResult() {
 		double result = 0;

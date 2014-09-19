@@ -1,4 +1,4 @@
-package com.designpattern.kklin.SimpleFactory;
+package com.designpattern.kklin.simplefactory;
 
 public class OperationDiv extends Operation {
 	@Override
