@@ -1,5 +1,8 @@
 package com.designpattern.kklin.strategy;
 
+/*
+ * 客户端代码
+ */
 public class Bootstrap {
 
 	/**
